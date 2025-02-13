@@ -1,0 +1,24 @@
+Current weather in kotihala: 27.64°C, overcast clouds, 61%, 11.43 m/s, 1006 hPa
+Current weather in mysore: 25°C, light rain, 78%, 1.03 m/s, 1011 hPa
+Current weather in krishnarajpet: 24.65°C, overcast clouds, 89%, 0.59 m/s, 1012 hPa
+Current weather in Delhi: 34.05°C, haze, 26%, 1.03 m/s, 1008 hPa
+Current weather in delhi: 27.05°C, haze, 65%, 0 m/s, 1008 hPa
+Current weather in delhi: 17.05°C, haze, 63%, 3.09 m/s, 1015 hPa
+Current weather in krishnarajpet: 20.55°C, clear sky, 28%, 3.34 m/s, 1015 hPa
+City not found.
+Current weather in delhi: 17.05°C, haze, 63%, 3.09 m/s, 1015 hPa
+City not found.
+Current weather in Mangalore: 26.48°C, haze, 69%, 0 m/s, 1013 hPa
+Current weather in Mangalore: 26.48°C, haze, 69%, 0 m/s, 1013 hPa
+Current weather in Krishnarajpet: 20.55°C, clear sky, 28%, 3.34 m/s, 1015 hPa
+Current weather in krishnarajpet: 21.91°C, broken clouds, 30%, 1.83 m/s, 1017 hPa
+Current weather in jammu: 19.55°C, broken clouds, 18%, 1.98 m/s, 1018 hPa
+Current weather in krishnarajpet: 28°C, scattered clouds, 21%, 3.75 m/s, 1016 hPa
+City not found.
+Current weather in krishnarajpet: 28°C, scattered clouds, 21%, 3.75 m/s, 1016 hPa
+City not found.
+Current weather in krishnarajpet: 28°C, scattered clouds, 21%, 3.75 m/s, 1016 hPa
+City not found.
+Current weather in krishnarajpet: 28°C, scattered clouds, 21%, 3.75 m/s, 1016 hPa
+Current weather in krishnarajpet: 29.87°C, scattered clouds, 20%, 4.42 m/s, 1015 hPa
+Current weather in hassan: 29.51°C, broken clouds, 19%, 4.42 m/s, 1015 hPa
